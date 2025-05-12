@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AlimenticiaLTDA-financeiro/static/css/main.14fc4f69.css",
+    "main.js": "/AlimenticiaLTDA-financeiro/static/js/main.11656cc2.js",
+    "static/media/logo-senai.png": "/AlimenticiaLTDA-financeiro/static/media/logo-senai.58359adf54aa762050c0.png",
+    "static/media/Logo.svg": "/AlimenticiaLTDA-financeiro/static/media/Logo.4ea7e7d1b5a84afc6f6cc8c266a850b8.svg",
+    "static/media/Favicon.svg": "/AlimenticiaLTDA-financeiro/static/media/Favicon.928b1b9925886e853aafd4d4ceef4e6e.svg",
+    "index.html": "/AlimenticiaLTDA-financeiro/index.html",
+    "main.14fc4f69.css.map": "/AlimenticiaLTDA-financeiro/static/css/main.14fc4f69.css.map",
+    "main.11656cc2.js.map": "/AlimenticiaLTDA-financeiro/static/js/main.11656cc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14fc4f69.css",
+    "static/js/main.11656cc2.js"
+  ]
+}
