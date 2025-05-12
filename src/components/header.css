@@ -1,0 +1,40 @@
+/* Existing Header Styles - to ensure consistency */
+.header {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 6px; /* Reduced Padding for compact appearance*/
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    position: fixed; /* Make the header fixed */
+    top: 0; /* Stick it to the top */
+    left: 0;
+    width: 100vw;
+    z-index: 100; /* Ensure it stays on top of other content */
+}
+
+/* Style for Buttons (replaces link styles) */
+.header-button {
+    background: transparent; /* Transparent background */
+    border: 0; /* No border */
+    padding: 2px 5px; /* Compact padding */
+    color: #fff; /* White text */
+    cursor: pointer; /* Pointer cursor on hover */
+    text-decoration: none;
+    outline: none; /* Remove outline on focus */
+}
+
+.header-button:hover {
+    color: #ccc; /* Slightly darker color on hover */
+}
+
+.logo-link {
+    display: flex;
+    justify-content: center;
+}
+
+.logo {
+    width: 100px;
+}
